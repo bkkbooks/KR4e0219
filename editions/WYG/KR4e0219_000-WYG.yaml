@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR4e0219/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0219_WYG_000-1a, image: WYG1291/WYG1291-0001a.png}
+body:
+  text: 穀城山館詩集别集類五明提要臣等謹案穀城山館詩集二十巻明于慎行撰慎行有讀史漫録已著録慎行於李攀龍為鄉人而不沿厯城之學其論古樂府曰唐人不為古樂府是知古樂府也不效其體而時假其名以達所欲言近世一二名家至乃逐句形模以追遺響則唐人所吐棄矣其論五言古詩曰魏晉之于五言豈非神化學之則迂矣何者意象空洞樸而不敢琱軌塗整嚴制而不敢騪少則難變多則易窮若原本性靈極命物態洪纎明滅畢究精藴唐詎無五言古詩哉其生平宗㫖可以槩見然其詩典雅和平自饒清韻又不似竟陵公安之學務反前規横開旁徑逞聰明而偭古法其矯枉而不過直抑尤難也乾隆四十三年六月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀欽定四庫全書集部六榖城山館集目録别集類五明巻一古樂府巻二五言古詩巻三五言古詩巻四七言古詩巻五七言古詩巻六五言律詩巻七五言律詩巻八五言律詩巻九五言律詩巻十五言律詩巻十一七言律詩巻十二七言律詩巻十三七言律詩巻十四七言律詩巻十五七言律詩巻十六七言律詩巻十七五言長律巻十八七言絶句巻十九七言長律六言絶句五言絶句巻二十賦
+  hash: sha256:03c33aa40954efefc7054cfb909a3d4418d3b664b93510cf386b26c5db60a004
+  markers:
+  - {type: page-break, offset: 275, content: '', id: KR4e0219_WYG_000-3a, image: WYG1291/WYG1291-0002c.png}
+metadata:
+  title: 穀城山館詩集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:26:30.745030'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0219/KR4e0219_000.txt
+hash: sha256:d205c49bcaa271e8378e3bebbc95e2b6b3ecd897cf674d5de07f00ccc893b74f
